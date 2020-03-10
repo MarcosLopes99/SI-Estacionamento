@@ -1,0 +1,12 @@
+- Controlar horario de entrada e saida de veiculos
+- Cadastrar clientes (nome, contato)
+- Cadastrar carros (modelo, cor, ano)
+- Implementar um sistema de pagamento
+	- Implementar Software para calculo de receita e custos
+- Implementar um sistema de controle de vagas
+	 - Tipos de vagas
+- Implementar um sistema de controle de funcionarios
+	- Turno
+	- Salario
+- Implementar um sistema de cameras
+
